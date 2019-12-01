@@ -1,0 +1,43 @@
+body {
+	background-color: #505050;
+}
+
+.bottom-margin1 {
+	margin-bottom: 5px;
+}
+
+.bottom-margin2, label {
+	margin-bottom: 20px;
+}
+
+.root-container {
+	background: #fee2b9;
+	text-align:center;
+}
+.img-flexible {
+	height: 100%;
+	width: 100%;
+}
+.active-form-tab {
+	color: antiquewhite;
+	background-color: #505050;
+	margin: 0px;
+}
+.inactive-form-tab {
+	color: #505050;
+	background-color: #fee2b9;
+	margin: -1px;
+}
+.error-label {
+	color: darksalmon;
+}
+.success-label {
+	color: lawngreen;
+}
+
+.black-back-color {
+	background-color: #505050;
+}
+.nav-txt-color {
+	color: #fee2b9;
+}
