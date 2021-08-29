@@ -1,1 +1,0 @@
-<%@ include file ="/jsp/common/cssAndScript.jsp" %>
